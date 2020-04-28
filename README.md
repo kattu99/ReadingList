@@ -9,3 +9,8 @@
 1. Thinking Fast And Slow, *Daniel Kahneman*
 2. Shoe Dog, *Phil Knight*
 
+## March
+1. The Rise of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, *Shoshana Zuboff*
+
+## April
+1. Zero To One: Notes on Startups, or How to Build the Future, *Peter Theil*
