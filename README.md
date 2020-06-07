@@ -16,6 +16,8 @@
 1. Zero To One: Notes on Startups, or How to Build the Future, *Peter Theil*
 
 ## May 
-1.  Dongri to Dubai: Six Decades of the Mumbai Mafia, *Hussain Zaidi*
+1. Dongri to Dubai: Six Decades of the Mumbai Mafia, *Hussain Zaidi*
 
+## June
+1. Only the Paranoid Survive: How to exploit the crisis points that challenge every company, *Andrew S. Grove*
 
