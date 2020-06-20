@@ -20,4 +20,4 @@
 
 ## June
 1. Only the Paranoid Survive: How to exploit the crisis points that challenge every company, *Andrew S. Grove*
-
+2. Talking to Strangers: What We Should Know about the People We Don’t Know, *Malcolm Gladwell*
