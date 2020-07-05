@@ -25,5 +25,3 @@
 2. Talking to Strangers: What We Should Know about the People We Don’t Know, *Malcolm Gladwell*
 3. Pigs Have Wings, *P.G. Wodehouse*
 
-## Interesting Essays & Articles
-1. On “What Should I Do?”, *Neel Khosla*, https://www.nealkhosla.com/blog/on-what-should-i-do
