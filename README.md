@@ -30,4 +30,5 @@
 2. CLR via C# (4th Edition), *Jeffrey Richter*
 
 ### August
-1. Sapiens: A Short History of Humankind
+1. Sapiens: A Short History of Humankind, *Yuval Noah Harari*
+
