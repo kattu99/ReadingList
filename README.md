@@ -32,3 +32,6 @@
 ### August
 1. Sapiens: A Short History of Humankind, *Yuval Noah Harari*
 2. Lab Girl, *Hope Jahren*
+
+### October
+1. The Audacity of Hope, *Barack Obama*
