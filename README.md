@@ -35,3 +35,6 @@
 
 ### October
 1. The Audacity of Hope, *Barack Obama*
+
+### November
+1. 21 Lessons for the 21st Century, *Yuval Noah Harari*
