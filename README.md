@@ -38,3 +38,6 @@
 
 ### November
 1. 21 Lessons for the 21st Century, *Yuval Noah Harari*
+
+### December
+1. Death on the Nile, *Agatha Christie*
