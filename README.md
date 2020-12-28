@@ -1,6 +1,6 @@
 # An Updated List of Reads
 
-## Books
+## 2020
 
 ### January
 1. The Curse of the Mogul: What's Wrong with the World's Leading Media Companies, *Jonathan Knee, Bruce Greenwald, Ava Seave*
@@ -41,3 +41,4 @@
 
 ### December
 1. Death on the Nile, *Agatha Christie*
+2. The Namesake, *Jhumpa Lahiri*
