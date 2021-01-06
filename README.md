@@ -3,7 +3,7 @@
 ## 2021
 
 ### January 
-1. The Future of Freedom: Illiberal Democracy at Home and Abroad
+1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
 
 ## 2020
 
@@ -14,7 +14,6 @@
 
 ### February
 1. Thinking Fast And Slow, *Daniel Kahneman*
-
 
 ### March
 1. The Rise of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power, *Shoshana Zuboff*
