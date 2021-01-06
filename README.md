@@ -1,5 +1,10 @@
 # An Updated List of Reads
 
+## 2021
+
+### January 
+1. The Future of Freedom: Illiberal Democracy at Home and Abroad
+
 ## 2020
 
 ### January
