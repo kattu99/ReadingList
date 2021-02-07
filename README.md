@@ -4,6 +4,10 @@
 
 ### January 
 1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
+2. A Promised Land, *Barack Obama*
+
+### February
+1. The Internet of Money: A Collection of Talks on Bitcoin, *Andreas M Antonopoulos*
 
 ## 2020
 
