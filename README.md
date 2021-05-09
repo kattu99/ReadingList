@@ -9,6 +9,9 @@
 ### February
 1. The Internet of Money: A Collection of Talks on Bitcoin, *Andreas M Antonopoulos*
 
+### April
+1. Homo Deus, A Brief History of Tomorrow, *Yuval Noah Harari*
+
 ## 2020
 
 ### January
