@@ -2,15 +2,12 @@
 
 ## 2021
 
-### January 
 1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
 2. A Promised Land, *Barack Obama*
-
-### February
-1. The Internet of Money: A Collection of Talks on Bitcoin, *Andreas M Antonopoulos*
-
-### April
-1. Homo Deus, A Brief History of Tomorrow, *Yuval Noah Harari*
+3. The Internet of Money: A Collection of Talks on Bitcoin, *Andreas M Antonopoulos*
+4. Homo Deus, A Brief History of Tomorrow, *Yuval Noah Harari*
+5. World Order, *Henry Kissinger*
+6. Crime and Punishment, *Fyodor Dostoevsky*
 
 ## 2020
 
