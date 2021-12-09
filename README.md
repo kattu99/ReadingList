@@ -8,6 +8,8 @@
 4. Homo Deus, A Brief History of Tomorrow, *Yuval Noah Harari*
 5. World Order, *Henry Kissinger*
 6. Crime and Punishment, *Fyodor Dostoevsky*
+7. An Elegant Puzzle: Systems of Engineering, *Will Larson*
+8. Kite Runner, *Khaled Hosseini*
 
 ## 2020
 
