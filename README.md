@@ -10,6 +10,7 @@
 6. Crime and Punishment, *Fyodor Dostoevsky*
 7. An Elegant Puzzle: Systems of Engineering, *Will Larson*
 8. Kite Runner, *Khaled Hosseini*
+9. Dune, *Frank Herbert*
 
 ## 2020
 
