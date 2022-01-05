@@ -10,6 +10,7 @@
 7. An Elegant Puzzle: Systems of Engineering, *Will Larson*
 8. Kite Runner, *Khaled Hosseini*
 9. Dune, *Frank Herbert*
+10. The Rise and Fall of Nations: Ten Rules of Change in the Post-Crisis World, *Ruchir Sharma*
 
 ### 2020
 1. The Curse of the Mogul: What's Wrong with the World's Leading Media Companies, *Jonathan Knee, Bruce Greenwald, Ava Seave*
