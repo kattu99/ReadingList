@@ -1,5 +1,8 @@
 # An Updated List of Reads
 
+### 2022
+1. The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh, *Sanjaya Baru*
+
 ### 2021
 1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
 2. A Promised Land, *Barack Obama*
