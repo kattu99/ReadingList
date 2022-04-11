@@ -3,6 +3,7 @@
 ### 2022
 1. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies, *Chris Yeh, Reid Hoffman*
 2. The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh, *Sanjaya Baru*
+3. Capitalism in America: A History, *Alan Greenspan, Adrian Wooldridge* 
 
 ### 2021
 1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
