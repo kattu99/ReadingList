@@ -7,6 +7,7 @@
 4. Barbarians at the Gate: The Fall of RJR Nabisco, *Bryan Burrough, John Helyar*.
 5. The Storm Before the Storm: The Beginning of the End of the Roman Republic, *Mike Duncan*
 6. Hillbilly Elegy:  A Memoir of a Family and Culture in Crisis, *J.D. Vance*
+7. The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz, *Erik Larson*
 
 ### 2021
 1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
