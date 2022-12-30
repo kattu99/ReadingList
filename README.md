@@ -10,6 +10,7 @@
 7. The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz, *Erik Larson*
 8. Behind the Cloud: The Untold Story of How Salesforce.com Went from Idea to Billion-Dollar Company-and Revolutionized an Industry, *Marc Benioff, Carlye Adler*
 9. Fire & Blood, *George RR Martin*
+10. The Big Score, *Michael S. Malone*
 
 ### 2021
 1. The Future of Freedom: Illiberal Democracy at Home and Abroad, *Fareed Zakaria*
