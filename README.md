@@ -1,11 +1,15 @@
 # An Updated List of Reads
 
+### 2023 
+1. The Argumentative Indian: Writings on Indian History, Culture and Identity, *Amartya Sen*
+2. Cat O'Nine Tales, *Jeffrey Archer*
+
 ### 2022
-1. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies, *Chris Yeh, Reid Hoffman*
-2. The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh, *Sanjaya Baru*
-3. Capitalism in America: A History, *Alan Greenspan, Adrian Wooldridge*
-4. Barbarians at the Gate: The Fall of RJR Nabisco, *Bryan Burrough, John Helyar*.
-5. The Storm Before the Storm: The Beginning of the End of the Roman Republic, *Mike Duncan*
+1. The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh, *Sanjaya Baru*
+2. Capitalism in America: A History, *Alan Greenspan, Adrian Wooldridge*
+3. Barbarians at the Gate: The Fall of RJR Nabisco, *Bryan Burrough, John Helyar*.
+4. The Storm Before the Storm: The Beginning of the End of the Roman Republic, *Mike Duncan*
+5. Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies, *Chris Yeh, Reid Hoffman*
 6. Hillbilly Elegy:  A Memoir of a Family and Culture in Crisis, *J.D. Vance*
 7. The Splendid and the Vile: A Saga of Churchill, Family, and Defiance During the Blitz, *Erik Larson*
 8. Behind the Cloud, *Marc Benioff, Carlye Adler*
