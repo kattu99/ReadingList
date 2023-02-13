@@ -23,7 +23,7 @@
 4. Homo Deus, A Brief History of Tomorrow, *Yuval Noah Harari*
 5. World Order, *Henry Kissinger*
 6. Crime and Punishment, *Fyodor Dostoevsky*
-7. An Elegant Puzzle: Systems of Engineering, *Will Larson*
+7. An Elegant Puzzle, *Will Larson*
 8. Kite Runner, *Khaled Hosseini*
 9. Dune, *Frank Herbert*
 10. The Rise and Fall of Nations: Ten Rules of Change in the Post-Crisis World, *Ruchir Sharma*
