@@ -3,6 +3,8 @@
 ### 2023 
 1. The Argumentative Indian: Writings on Indian History, Culture and Identity, *Amartya Sen*
 2. Cat O'Nine Tales, *Jeffrey Archer*
+3. India Unbound: From Independence to Global Information Age, *Gurcharan Das*
+4. Kane and Abel, *Jeffrey Archer*
 
 ### 2022
 1. The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh, *Sanjaya Baru*
