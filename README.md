@@ -1,5 +1,9 @@
 # An Updated List of Reads
 
+### 2024
+1. Chip War: The Fight for the World's Most Critical Technology, *Chris Miller*
+2. Elon Musk, *Walter Isaacson*
+
 ### 2023 
 1. The Argumentative Indian: Writings on Indian History, Culture and Identity, *Amartya Sen*
 2. Cat O'Nine Tales, *Jeffrey Archer*
@@ -7,6 +11,7 @@
 4. Kane and Abel, *Jeffrey Archer*
 5. Dune Messiah, *Frank Herbert*
 6. The Last Man and the End of History, *Francis Fukuyama*
+7. The Mom Test: How to talk to customers, *Rob Fitzpatrick*
 
 ### 2022
 1. The Accidental Prime Minister: The Making and Unmaking of Manmohan Singh, *Sanjaya Baru*
