@@ -3,6 +3,7 @@
 ### 2024
 1. Chip War: The Fight for the World's Most Critical Technology, *Chris Miller*
 2. Elon Musk, *Walter Isaacson*
+3. The Three-Body Problem, *Cixin Liu*
 
 ### 2023 
 1. The Argumentative Indian: Writings on Indian History, Culture and Identity, *Amartya Sen*
