@@ -1,9 +1,17 @@
 # An Updated List of Reads
 
+### 
+1. Russia Resurrected: Its Power and Purpose in a New Global Order, *Kathryn Stoner-Weiss*
+2. Slouching towards Bethlehem, *Joan Didion*
+
+
 ### 2024
 1. Chip War: The Fight for the World's Most Critical Technology, *Chris Miller*
 2. Elon Musk, *Walter Isaacson*
 3. The Three-Body Problem, *Cixin Liu*
+4. Dark Forest, *Cixin Liu*
+5. The Feminine Mystique, *Betty Freidan*
+6. The Demon of Unrest, *Erik Larson*
 
 ### 2023 
 1. The Argumentative Indian: Writings on Indian History, Culture and Identity, *Amartya Sen*
