@@ -3,6 +3,7 @@
 ### 
 1. Russia Resurrected: Its Power and Purpose in a New Global Order, *Kathryn Stoner-Weiss*
 2. Slouching towards Bethlehem, *Joan Didion*
+3. Clash of Civilizations, *Samuel P Huntington*
 
 
 ### 2024
