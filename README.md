@@ -1,5 +1,13 @@
 # An Updated List of Reads
 
+### 2026
+1. Why Nations Fail
+2. The Origins of the Second World War
+3. The God of Small Things
+4. The Annihilation of Caste
+5. Eichmann in Jerusalem
+6. Deaths End
+
 ### 
 1. Russia Resurrected: Its Power and Purpose in a New Global Order, *Kathryn Stoner-Weiss*
 2. Slouching towards Bethlehem, *Joan Didion*
